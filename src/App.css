@@ -1,0 +1,32 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#root h5{
+  text-align:center ;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  margin: 0.5rem;
+  background-size: cover;
+}
+
+.card{
+   box-sizing: border-box;
+  width: 100%;
+  margin: 2rem;
+  justify-content: center;
+  align-items: center;
+  max-width: none;
+ 
+}
+
+.card-body{
+  text-align: center;
+}
